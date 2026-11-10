@@ -21,6 +21,9 @@ Therefore, I kept the number of indicators for an energy vulnerability score low
 - **Pollution**, which can be a proxy for race. Industrial facilities, highways, and other high polluting areas are often built near redlined, low income, and marginalized immigrant communities. I used CalEnviroScreen 4.0 data of PM 2.5, which was collected via satellite.
 - **Linguistic isolation**. We wanted to target communities who faced language barriers. English-only communication and marketing of building decarbonization rebate programs may completely miss these communities, and we wanted to survey them about their awareness of these programs, and their preferred methods of communication. I used CalEnviroScreen 4.0 data.
 - **Affordability**. Since people experiencing poverty often have to prioritize certain bills at the cost of others, such as rent and utilities, I chose two different metrics that were relevant: Average Household Energy Financial Burden, which was calculated by the CEC, and Housing Burden, which was calculated via CalEnviroScreen. Since I wanted to find communities who scored high in either of these categories, for each census tract, I chose the higher of the two Burden scores.
+
+![[/images/lcea-diagram-1.png]]
+
 Our target were the census tracts who had the top 50 highest scores in Pollution, Linguistic Isolation, and Affordability – so ideally, low income, immigrant communities of color.
 
 After finding the top 50 most vulnerable communities, I then identified the corresponding zip codes for these census tracts. Using a list of community based organizations that LCEA had, I filtered for organizations whose addresses were in these zip codes. LCEA staff used the final list of organizations for email outreach for their survey.

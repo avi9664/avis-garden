@@ -231,11 +231,11 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/avi9664
+        LinkedIn: https://www.linkedin.com/in/avi-wong/
     layout:
-      position: footer
-      priority: 50
+      position: left
+      priority: 10
   - source: "@quartz-community/recent-notes"
     enabled: true
     options:
