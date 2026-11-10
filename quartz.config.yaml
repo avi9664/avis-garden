@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: avi9664.github.io/avis-garden.github.io/
+  baseUrl: https://avi9664.github.io/avis-garden.github.io/
   ignorePatterns:
     - private
     - templates
