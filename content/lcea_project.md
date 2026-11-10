@@ -1,5 +1,6 @@
 ---
 title: Identifying Energy-Vulnerable Communities for a Building Decarbonization Survey
+draft: false
 tags:
 - building decarbonization
 - arcgis

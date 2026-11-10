@@ -1,5 +1,6 @@
 ---
 title: Welcome!
+draft: false
 ---
 
 Hi, I’m Avi, and I’m interested in energy justice!
