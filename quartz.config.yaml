@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: avi9664.github.io/avis-garden.github.io/
+  baseUrl: avi9664.github.io/avis-garden.github.io
   ignorePatterns:
     - private
     - templates
@@ -21,22 +21,22 @@ configuration:
       code: Spline Sans Monos
     colors:
       lightMode:
-        light: "#acc291"
-        lightgray: "#e5e5e5"
+        light: "#add794"
+        lightgray: "#add794"
         gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#032c30"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        darkgray: "#032B52"
+        dark: "#040011"
+        secondary: "#e99025"
+        tertiary: "#ba0101"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
         light: "#032c30"
-        lightgray: "#393639"
+        lightgray: "#032B52"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#acc291"
-        secondary: "#7b97aa"
+        secondary: "#cbaf2b"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
