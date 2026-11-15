@@ -21,25 +21,25 @@ configuration:
       code: Spline Sans Monos
     colors:
       lightMode:
-        light: "#ffefcb"
-        lightgray: "#e8d9ad"
-        gray: "#646464"
-        darkgray: "#023820"
-        dark: "#023820"
-        secondary: "#ee3f24"
-        tertiary: "#f9a11b"
-        highlight: rgba(238, 63, 36, 0.15)
-        textHighlight: "#f9a11b88"
+        light: "#fff9f2"
+        lightgray: "#e6d7a8"
+        gray: "#0f382e"
+        darkgray: "#110305"
+        dark: "#003e1f"
+        secondary: "#003e1f"
+        tertiary: "#ba2d0b"
+        highlight: rgba(115, 186, 155, 0.15)
+        textHighlight: "#ba2d0b33"
       darkMode:
-        light: "#023820"
-        lightgray: "#0a4d2f"
-        gray: "#9eab9e"
-        darkgray: "#ffefcb"
-        dark: "#ffefcb"
-        secondary: "#f9a11b"
-        tertiary: "#f9a11b"
-        highlight: rgba(238, 63, 36, 0.15)
-        textHighlight: "#f9a11b88"
+        light: "#0b0f14"
+        lightgray: "#0f382e"
+        gray: "#e6d7a8"
+        darkgray: "#fff9f2"
+        dark: "#e6d7a8"
+        secondary: "#73ba9b"
+        tertiary: "#ba2d0b"
+        highlight: rgba(115, 186, 155, 0.15)
+        textHighlight: "#ba2d0b88"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
