@@ -24,7 +24,10 @@ export default (() => {
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
-    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
+    // Use absolute path for 404 and index pages when baseUrl contains a subpath
+    const baseDir = (fileData.slug === "404" || fileData.slug === "index") && path !== "/" 
+      ? path 
+      : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
     // Url of current page
