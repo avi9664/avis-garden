@@ -5,6 +5,7 @@ tags:
 - building decarbonization
 - arcgis
 - past projects
+- excel
 ---
 
 ## What's happening?
