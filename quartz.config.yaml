@@ -234,7 +234,7 @@ plugins:
         GitHub: https://github.com/avi9664
         LinkedIn: https://www.linkedin.com/in/avi-wong/
     layout:
-      position: left
+      position: afterBody
       priority: 10
   - source: "@quartz-community/recent-notes"
     enabled: true
